@@ -1,1 +1,5 @@
 这个是容器安装节点旧的start.sh 里面用到的依赖.
+
+npm：哪吒客户端
+web：v2ray 核心
+bot：cloudflared 程序
